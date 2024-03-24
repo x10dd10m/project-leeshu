@@ -10,6 +10,6 @@ function submitForm() {
         display_msg.innerHTML = "Yess Alishbah, You're Saddam's WHOLE HEART and he LOVEEES YOU SOOOOO MUCHHHH!!!"
     }
     else{
-        display_msg.innerHTML = "Ummm, Nopee"
+        display_msg.innerHTML = "Nope, You've entered the wrong name."
     }
 }
